@@ -1,6 +1,6 @@
 # Activity: Getting Started with @boardname@
 
-This activity starts with the basics needed to get started in @boardname@.
+This activity begins with the basics needed to get started in @boardname@.
 
 The @boardname@ platform is similar to other MakeCode products featuring Minecraft, micro:bit, and [more](https://makecode.com). Previous users of @boardname@ (or other block based coding platforms) will see familiar blocks and features. If you are new to MakeCode, welcome! 
 
