@@ -25,7 +25,7 @@ In this activity, students are introduced to:
 3. Press left and right on the direction pad to move the space ship, and press the ``||controller:A||`` button to fire the laser
 4. Pay careful attention to what happens when the laser collides with an asteroid
 
-### New Project
+## Concept: Creating a New Project
 
 [![Link to Video](/static/thumbnail_play_video.png)](https://aka.ms/40544a-orientation2)
 
